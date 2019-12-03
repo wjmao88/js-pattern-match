@@ -1,0 +1,30 @@
+{
+  "name": "js-pattern-match",
+  "version": "0.1.0",
+  "description": "pattern matching utils for javascript",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "test": "jest test.spec.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjmao88/js-pattern-match.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wjmao88/js-pattern-match/issues"
+  },
+  "homepage": "https://github.com/wjmao88/js-pattern-match#readme",
+  "dependencies": {
+    "typescript": "^3.7.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.7.4",
+    "@babel/preset-typescript": "^7.7.4",
+    "@types/jest": "^24.0.23",
+    "fast-check": "^1.20.0",
+    "jest": "^24.9.0"
+  }
+}
